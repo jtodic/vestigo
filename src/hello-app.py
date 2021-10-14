@@ -9,7 +9,7 @@ def main():
     put_image(open('vestigo-logo.png', 'rb').read())
 
     put_table([
-        ['Hello-app version', '1.0.1'],
+        ['Hello-app version', '2.2.2'],
         ['Owner', "Joško T."]
         ])
 
